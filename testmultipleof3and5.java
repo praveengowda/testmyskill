@@ -1,10 +1,10 @@
 import org.junit.Test;
 
 
-public class testmultipleof3and5 {
+public class Testmultipleof3and5 {
 	
 	    @Test
-	    public void testdivisiblesOf3and5(){
+	    public void testmultipleOf3and5(){
 	    	Multipleof3and5 multipleOf3and5= new Multipleof3and5();
 	    int result =multipleOf3and5. multipleOf3and5();
 
